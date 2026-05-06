@@ -1,0 +1,14 @@
+/home/ivan/CODE/algos-codeforce/hw2/3/bin/Debug/net10.0/3
+/home/ivan/CODE/algos-codeforce/hw2/3/bin/Debug/net10.0/3.deps.json
+/home/ivan/CODE/algos-codeforce/hw2/3/bin/Debug/net10.0/3.runtimeconfig.json
+/home/ivan/CODE/algos-codeforce/hw2/3/bin/Debug/net10.0/3.dll
+/home/ivan/CODE/algos-codeforce/hw2/3/bin/Debug/net10.0/3.pdb
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/3.AssemblyInfoInputs.cache
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/3.AssemblyInfo.cs
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/3.csproj.CoreCompileInputs.cache
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/3.dll
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/refint/3.dll
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/3.pdb
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/3.genruntimeconfig.cache
+/home/ivan/CODE/algos-codeforce/hw2/3/obj/Debug/net10.0/ref/3.dll

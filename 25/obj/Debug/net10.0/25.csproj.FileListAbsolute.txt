@@ -1,0 +1,14 @@
+/home/ivan/CODE/algos-codeforce/hw2/25/bin/Debug/net10.0/25
+/home/ivan/CODE/algos-codeforce/hw2/25/bin/Debug/net10.0/25.deps.json
+/home/ivan/CODE/algos-codeforce/hw2/25/bin/Debug/net10.0/25.runtimeconfig.json
+/home/ivan/CODE/algos-codeforce/hw2/25/bin/Debug/net10.0/25.dll
+/home/ivan/CODE/algos-codeforce/hw2/25/bin/Debug/net10.0/25.pdb
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/25.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/25.AssemblyInfoInputs.cache
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/25.AssemblyInfo.cs
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/25.csproj.CoreCompileInputs.cache
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/25.dll
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/refint/25.dll
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/25.pdb
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/25.genruntimeconfig.cache
+/home/ivan/CODE/algos-codeforce/hw2/25/obj/Debug/net10.0/ref/25.dll
