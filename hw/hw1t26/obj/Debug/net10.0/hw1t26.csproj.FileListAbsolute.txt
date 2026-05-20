@@ -1,0 +1,14 @@
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/bin/Debug/net10.0/hw1t26
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/bin/Debug/net10.0/hw1t26.deps.json
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/bin/Debug/net10.0/hw1t26.runtimeconfig.json
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/bin/Debug/net10.0/hw1t26.dll
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/bin/Debug/net10.0/hw1t26.pdb
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/hw1t26.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/hw1t26.AssemblyInfoInputs.cache
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/hw1t26.AssemblyInfo.cs
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/hw1t26.csproj.CoreCompileInputs.cache
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/hw1t26.dll
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/refint/hw1t26.dll
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/hw1t26.pdb
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/hw1t26.genruntimeconfig.cache
+/home/ivan/CODE/algos-codeforce/hw/hw1t26/obj/Debug/net10.0/ref/hw1t26.dll
