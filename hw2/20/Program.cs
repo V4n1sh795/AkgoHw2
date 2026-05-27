@@ -6,7 +6,7 @@
 
         int n = s.Length;
         int[] pi = new int[n];
-
+        // prefix func
         for (int i = 1; i < n; i++)
         {
             int j = pi[i - 1];
