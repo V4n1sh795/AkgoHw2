@@ -70,20 +70,20 @@ class Program
             records.Add(record);
         }
         
-        // Bubble sort
-        for(int i = 0; i < n-1; i++)
+        // сортировка вставками
+        for(int i = 1; i < n; i++)
         {
-            for(int j = 0; j < n-i-1; j++)
+            Record key = records[i];
+            int j = i - 1;
+            
+            while(j >= 0 && Compare(records[j], key, priority) == 2)
             {
-                if(Compare(records[j], records[j+1], priority) == 2)
-                {
-                    Record temp = records[j];
-                    records[j] = records[j+1];
-                    records[j+1] = temp;
-                }
+                records[j + 1] = records[j];
+                j--;
             }
+            records[j + 1] = key;
         }
-        
+                
         foreach(Record rec in records)
         {
             Console.WriteLine(rec.Name);

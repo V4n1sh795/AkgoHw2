@@ -1,15 +1,17 @@
-﻿using System.IO.Pipelines;
+﻿using System;
 
 class Program
 {
     public static void Main()
     {
-        string[] input = Console.ReadLine().Split(" ");
+        string[] input = Console.ReadLine().Split(' ');
         int n = Convert.ToInt32(input[0]);
         int m = Convert.ToInt32(input[1]);
         int mod = Convert.ToInt32(input[2]);
-        int[] koef = new int[n+1]; 
+        
+        int[] koef = new int[n + 1]; 
         int[] means = new int[m]; 
+        
         for (int i = n; i >= 0; i--)
         {
             koef[i] = Convert.ToInt32(Console.ReadLine());
@@ -18,15 +20,17 @@ class Program
         {
             means[i] = Convert.ToInt32(Console.ReadLine());
         }
-        Console.WriteLine("Result");
+        // Gorner
         for (int i = 0; i < m; i++)
         {
-            int res = 0;
-            for (int j = 0; j < n+1; j++)
+            long res = 0;
+            long x = means[i] % mod; 
+            for (int j = n; j >= 0; j--)
             {
-                res += (int)(koef[j] * Math.Pow(means[i], j)); 
+                res = (res * x + koef[j]) % mod;
             }
-            Console.WriteLine(res%mod);
+            
+            Console.WriteLine(res);
         }
     }
 }
