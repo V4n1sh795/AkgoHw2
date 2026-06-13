@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ivan/CODE/algos-codeforce/hw/hw1t16/hw1t16.csproj",
+      "projectUniqueName": "/home/ivan/CODE/AkgoHw2/hw/hw1t16/hw1t16.csproj",
       "projectName": "hw1t16",
-      "projectPath": "/home/ivan/CODE/algos-codeforce/hw/hw1t16/hw1t16.csproj",
+      "projectPath": "/home/ivan/CODE/AkgoHw2/hw/hw1t16/hw1t16.csproj",
       "packagesPath": "/home/ivan/.nuget/packages/",
-      "outputPath": "/home/ivan/CODE/algos-codeforce/hw/hw1t16/obj/",
+      "outputPath": "/home/ivan/CODE/AkgoHw2/hw/hw1t16/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ivan/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ivan/CODE/algos-codeforce/hw/hw1t32/hw1t32.csproj": {}
+    "/home/ivan/CODE/AkgoHw2/hw/hw1t32/hw1t32.csproj": {}
   },
   "projects": {
-    "/home/ivan/CODE/algos-codeforce/hw/hw1t32/hw1t32.csproj": {
+    "/home/ivan/CODE/AkgoHw2/hw/hw1t32/hw1t32.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ivan/CODE/algos-codeforce/hw/hw1t32/hw1t32.csproj",
+        "projectUniqueName": "/home/ivan/CODE/AkgoHw2/hw/hw1t32/hw1t32.csproj",
         "projectName": "hw1t32",
-        "projectPath": "/home/ivan/CODE/algos-codeforce/hw/hw1t32/hw1t32.csproj",
+        "projectPath": "/home/ivan/CODE/AkgoHw2/hw/hw1t32/hw1t32.csproj",
         "packagesPath": "/home/ivan/.nuget/packages/",
-        "outputPath": "/home/ivan/CODE/algos-codeforce/hw/hw1t32/obj/",
+        "outputPath": "/home/ivan/CODE/AkgoHw2/hw/hw1t32/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ivan/.nuget/NuGet/NuGet.Config"
