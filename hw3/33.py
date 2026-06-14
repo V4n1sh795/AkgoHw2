@@ -71,6 +71,5 @@ path.reverse()
 
 stations = [node for node in path if 1 <= node <= n]
 
-# 8. Вывод результата
 print(f"{dist[n + 1]:.7f}")
 print(f"{len(stations)} " + " ".join(map(str, stations)))

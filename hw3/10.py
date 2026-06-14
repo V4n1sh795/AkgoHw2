@@ -1,7 +1,6 @@
 # https://acmp.ru/?main=task&id_task=478 
 
 import sys
-# Чтение всех данных из стандартного ввода
 input_data = sys.stdin.read().split()
     
 it = iter(input_data)
